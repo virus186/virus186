@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I am Ali Azaz
 
-<!--
-**virus186/virus186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Full Stack Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Phnom Penh , Cambodia
+- 🌱 I’m currently learning Fluter and Nest JS
+- 👯 I’m looking to collaborate on other developers
+- ⚡ Fun fact: I love to learn new Technologies.
+ 
+## Connect with me : 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/azaz-a-79bb78102/))
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virus186&layout=donut)](https://github.com/anuraghazra/github-readme-stats)       ![GitHub stats](https://github-readme-stats.vercel.app/api?username=virus186)
+
+
+
+
